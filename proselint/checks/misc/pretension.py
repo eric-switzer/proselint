@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
-"""Pretension.
+"""Pretentious words
 
 ---
 layout:     post
 source:     ???
 source_url: ???
-title:      yelling
+title:      pretentious words
 date:       2014-06-10 12:31:19
 categories: writing
 ---
 
-Never use the phrase 'all hell broke loose'.
-
+https://www.reddit.com/r/AskReddit/comments/22y54w/whats_the_most_pretentious_word_you_know/
 """
 from proselint.tools import existence_check, memoize
 
@@ -19,14 +18,19 @@ from proselint.tools import existence_check, memoize
 @memoize
 def check(text):
     """Check the text."""
-    err = "ogilvy.pretension"
-    msg = u"Jargon words like this one are the hallmarks of a pretentious ass."
+    err = "misc.pretension"
+    msg = u"Pretentious word"
 
     list = [
         "reconceptualize",
         "demassification",
         "attitudinally",
         "judgmentally",
+        "vis-a-vis",
+        "grandiloquent",
+        "equestrian",
+        "loquacious",
+        "defenestration",
     ]
 
     return existence_check(text, list, err, msg, max_errors=1)

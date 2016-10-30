@@ -119,6 +119,7 @@ You can disable any of the checks by modifying `.proselintrc`.
 | `hedging.misc` | Not hedging |
 | `hyperbole.misc` | Not being hyperbolic |
 | `jargon.misc` | Avoiding miscellaneous jargon |
+| `lgbtq.terms` | Misused LGBTQ terms |
 | `lexical_illusions.misc` | Avoiding lexical illusions |
 | `links.broken` | Linking only to existing sites |
 | `malapropisms.misc` | Avoiding common malapropisms |
