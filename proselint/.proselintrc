@@ -2,7 +2,6 @@
     "max_errors": 1000,
     "checks": {
         "airlinese.misc"                : true,
-        "archaism.misc"                 : true,
         "cliches.hell"                  : true,
         "cliches.misc"                  : true,
         "consistency.spacing"           : true,
