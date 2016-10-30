@@ -1,0 +1,168 @@
+phrase,class,explanation,source,source url,recommendation
+all the,,,,,all of the
+so is,,,,,so [it] is
+so can,,,,,so [it] can
+and is,,,,,and [it] is
+and can,,,,,and [it] can
+since,formality,informal,,,because
+different than,formality,,,http://grammarist.com/usage/different/,different from
+i.e.,commas,,,,"i.e.,"
+generally,concision,diffuse,,,
+Generally,commas,,,,"Generally,"
+Instead,commas,,,,"Instead,"
+Here,commas,,,,"Here,"
+Hence,commas,,,,"Hence,"
+need,verb choice,diffuse,,,require
+like,formality,informal,,,such as
+hopefully,formality,dangling modifier,,,[X] hopes
+And,bad beginnings,pretension,,,
+But,bad beginnings,pretension,,,"However,"
+Because,bad beginnings,,,,
+not un*,concision,double negative,,,use antonym
+not in*,concision,double negative,,,use antonym
+is able to,concision,,,,can
+the an,typo,typo,,,
+the and,typo,typo,,,
+can not,,,,,cannot
+in spite of,concision,concision,,,
+et al.,foreign,italicization,,,italicized
+so long as ,formality,,,,as long as
+either be,order,,,,be either
+to either,order,,,,either to
+", e.g., ",commas,,,,"; e.g.,"
+as well as,concision,concision,,,and [unless reader already knows]
+with respect to,concision,concision,,,on
+his own,concision,concision,,,his
+her own,concision,concision,,,her
+its own,concision,concision,,,its
+relative to,concision,concision,,,about
+crafted,,,,,made
+axiomatic,simplify,,PAW,,self-evident
+au courant,simplify,,PAW,,contemporary
+moribund,simplify,,PAW,,obsolete
+admixture,simplify,,PAW,,mixture
+propitious,simplify,,PAW,,favorable
+eleemosynary,simplify,,PAW,,charitable
+calumny,simplify,,PAW,,slander
+fecund,simplify,,PAW,,fertile
+inchoate,simplify,,PAW,,incomplete/partial
+outre,simplify,,PAW,,strange
+jocose,simplify,,PAW,,humorous
+coruscating,simplify,,PAW,,brilliant
+guignol,simplify,,PAW,,sensational/dramatic
+antediluvian,simplify,,PAW,,antiquated
+protean,simplify,,PAW,,changing/variable
+equipoise,simplify,,PAW,,equilibrium
+surfeit,simplify,,PAW,,excess
+attenuate,simplify,,PAW,,weaken/lessen
+legerdemain,simplify,,PAW,,sleight of hand
+obstreperous,simplify,,PAW,,unruly
+percipience,simplify,,PAW,,perception
+contretemps,simplify,,PAW,,inopportune/dispute
+quiescent,simplify,,PAW,,quiet/inactive
+feckless,simplify,,PAW,,ineffective
+scrofulous,simplify,,PAW,,immoral
+pertinacious,simplify,,PAW,,obstinate
+febrile,simplify,,PAW,,feverish
+melange,simplify,,PAW,,mixture/hodgepodge
+vapid,simplify,,PAW,,dull/tedious
+assiduous,simplify,,PAW,,persistent/thorough/industrious
+hagiolatry,simplify,,PAW,,idolatry
+nullipara,simplify,,PAW,,a childless woman
+cupidity,simplify,,PAW,,greed/lust
+elide,simplify,,PAW,,omit
+antipodal,simplify,,PAW,,opposite
+nugatory,simplify,,PAW,,trivial
+propinquity,simplify,,PAW,,kinship/proximity
+pluvious,simplify,,PAW,,rainy
+lacuna,simplify,,PAW,,gap/deficiency
+chrysostomatic,simplify,,PAW,,eloquent
+puissant,simplify,,PAW,,powerful
+amanuensis,simplify,,PAW,,secretary
+atelier,simplify,,PAW,,workshop
+niggardly,simplify,,PAW,,miserly
+casuistry,simplify,,PAW,,rationalization
+sesquipedalian,simplify,,PAW,,polysyllabic
+depanneur,simplify,,PAW,,"store, corner shop"
+noisome,simplify,,PAW,,"smelly, noxious"
+soupcon,simplify,,PAW,,"dash, slight trace"
+insouciant,simplify,,PAW,,carefree
+recrudescence,simplify,,PAW,,revival
+precis,simplify,,PAW,,summary
+preternatural,simplify,,PAW,,supernatural
+orotund,simplify,,PAW,,"pumpous, sonorous"
+saturnine,simplify,,PAW,,slow and gloomy
+ne plus ultra,simplify,,PAW,,"highest point, ultimate"
+hirsute,simplify,,PAW,,hairy
+tyros,simplify,,PAW,,beginners
+lassitude,simplify,,PAW,,"weariness, indifference"
+piscine,simplify,,PAW,,pertaining to fish
+metier,simplify,,PAW,,profession
+salver,simplify,,PAW,,tray
+peripatetic,simplify,,PAW,,itinerant
+endemic,simplify,,PAW,,native to
+torpor,simplify,,PAW,,lethargy
+soporific,simplify,,PAW,,sleep inducing
+parlous,simplify,,PAW,,dangerous
+obloquy,simplify,,PAW,,"censure, disgrace"
+invidious,simplify,,PAW,,offensive
+myrmidon,simplify,,PAW,,lackey
+mendicant,simplify,,PAW,,begging
+shambolic,simplify,,PAW,,chaotic
+matriculate,simplify,,PAW,,enroll
+pusillanimous,simplify,,PAW,,cowardly
+cavil,simplify,,PAW,,quibble
+pulchritudinous,simplify,,PAW,,beautiful
+trope,simplify,,PAW,,figure of speech
+quotidian,simplify,,PAW,,"daily, common"
+qua,simplify,,PAW,,as
+micturate,simplify,,PAW,,urinate
+synecdoche,simplify,,PAW,,stand-in
+animadversion,simplify,,PAW,,strong criticism
+palaver,simplify,,PAW,,"idle chatter, prattle"
+prelapsarian,simplify,,PAW,,"primal, pure"
+desideratum,simplify,,PAW,,requirement
+tsuris,simplify,,PAW,,"trouble, aggravation"
+anodyne,simplify,,PAW,,soothing
+manque,simplify,,PAW,,unfulfulled ambition
+palter,simplify,,PAW,,"insincere, capricious"
+condign,simplify,,PAW,,"deserved, adequate"
+recondite,simplify,,PAW,,"concealed, hidden"
+fait accompli,simplify,,PAW,,foregone conclusion
+rodomontade,simplify,,PAW,,pretentious boasting
+casus belli,simplify,,PAW,,act provoking war
+seppuku,simplify,,PAW,,ritual suicide
+tendentious,simplify,,PAW,,biased
+jejune,simplify,,PAW,,"dull, immature"
+risible,simplify,,PAW,,laughable
+FIXME,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H41,
+FIX ME,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H42,
+TODO,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H43,
+todo,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H44,
+ERASE THIS,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H45,
+FIX THIS,vestigial,note to self,SublimeLinter-annotations,http://bit.ly/16Q7H46,
+DELME,vestigial,note to self,,,
+legendary,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+great,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+acclaimed,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+visionary,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+outstanding,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+leading,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+celebrated,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+award-winning,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+landmark,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+cutting-edge,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+innovative,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+extraordinary,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+brilliant,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+famous,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+renowned,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+remarkable,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+prestigious,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+world-class,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+respected,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+notable,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+virtuoso,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+honorable,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+awesome,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
+unique,simplify,puffery,Wikipedia manual of style,Wikipedia:Manual_of_Style/Words_to_watch,explain why
